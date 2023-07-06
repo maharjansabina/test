@@ -7,8 +7,16 @@ description: welcome to my page Miracle INterface
 <figure><img src=".gitbook/assets/191648324_484336876131443_329518984333249648_n.jpg" alt=""><figcaption><p>hello this is caption</p></figcaption></figure>
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**GitBook tip:** your product docs aren't just a reference of all your features! use them[ ](#user-content-fn-1)[^1]to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
+
+## Table creation
+
+| Sn | product name | price |
+| -- | ------------ | ----- |
+| 1  | Keyboad      | $25   |
+| 2  | Mouse        | $15   |
+| 3  | Laptop       | $150  |
 
 ## Overview
 
@@ -49,3 +57,5 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
 [inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
+
+[^1]: 

@@ -4,7 +4,7 @@ description: welcome to my page Miracle INterface
 
 # 👋 Welcome to A Product
 
-<figure><img src=".gitbook/assets/191648324_484336876131443_329518984333249648_n.jpg" alt=""><figcaption><p>hello this is caption</p></figcaption></figure>
+<figure><img src=".gitbook/assets/viber_image_2021-06-30_17-15-42.jpg" alt=""><figcaption><p>hello this is caption</p></figcaption></figure>
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them[ ](#user-content-fn-1)[^1]to encourage folks to perform certain actions and discover the value in your product.

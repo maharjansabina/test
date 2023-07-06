@@ -14,11 +14,11 @@ coverY: 0
 
 ## Table creation
 
-| Sn | product name | price     |
-| -- | ------------ | --------- |
-| 1  | Keyboad      | $25       |
-| 2  | Mouse        | $15       |
-| 3  | Laptop       | ~~$150~~  |
+| Sn | product name | price         |
+| -- | ------------ | ------------- |
+| 1  | Keyboad      | $25           |
+| 2  | Mouse        | $15           |
+| 3  | Laptop       | ~~$150~~`$15` |
 
 ## Overview
 

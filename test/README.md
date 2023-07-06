@@ -1,8 +1,10 @@
 ---
-description: welcome to my page Miracle INterface
+description: Hello World!
+cover: .gitbook/assets/67206735_1659828612379193_r.webp
+coverY: 0
 ---
 
-# 👋 Welcome to A Product
+# 👋 Welcome to My Docs
 
 <figure><img src=".gitbook/assets/viber_image_2021-06-30_17-15-42.jpg" alt=""><figcaption><p>hello this is caption</p></figcaption></figure>
 

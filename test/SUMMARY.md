@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to My Page](README.md)
+* [👋 Welcome to My Docs](README.md)
+  * [Page 1](welcome-to-my-docs/page-1.md)
 
 ## Overview
 

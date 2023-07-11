@@ -6,7 +6,7 @@ coverY: 0
 
 # 👋 Welcome to My Docs
 
-<figure><img src=".gitbook/assets/viber_image_2021-06-30_17-15-42.jpg" alt=""><figcaption><p>hello this is caption</p></figcaption></figure>
+<figure><img src=".gitbook/assets/viber_image_2021-06-30_17-15-42.jpg" alt="" width="563"><figcaption><p>hello this is caption</p></figcaption></figure>
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them[ ](#user-content-fn-1)[^1]to encourage folks to perform certain actions and discover the value in your product.
